@@ -1,16 +1,43 @@
-#menu ul {
-    padding:10px;
-    margin:0px;
-    background-color:#000000;
-    list-style:none;
-    color: #fffff;
-    text-decoration: none;
-    border-bottom:3px solid #EDEDED
-}
-#menu ul li { display: inline; }
-
-#menu ul li a:hover {
-    background-color:#D6D6D6;
-    color: #6D6D6D;
-    border-bottom:3px solid #EA0000;
-}
+      body{
+            margin: 0;
+            padding: 0;
+            font-family: Segoe UI;
+            height: 1600px;
+            background-color: #f5f5f5;
+        }
+        #menuHeader {
+            position: relative;
+            width: 100%;
+            height: 50px;
+            background-color: #032e57;
+        }
+        #menuHeader ul {
+            width: 960px;
+            margin: 0 auto;
+            list-style: none;
+        }
+        #menuHeader ul li {
+            float: left;
+        }
+        #menuHeader ul li a {
+            padding: 15px 30px;
+            line-height: 50px;
+            border-left: 1px solid #464A4E;
+            border-right: 1px solid #0E3457;
+            text-decoration: none;
+            color: #fff;
+        }
+        #menuHeader ul li:first-child a {
+            border-left: 0;
+        }
+        #menuHeader ul li:last-child a {
+            border-right: 0;
+        }
+        #menuHeader ul li a:hover {
+            background-color: #4aa6e0;
+        }
+        .menu-fixo  {
+            position:fixed !important;
+            top: 0;
+            z-index: 99;
+        }
