@@ -43,3 +43,17 @@ width:200px;
   margin-left: auto;
   margin-right: auto;
 }
+@font-face {
+    font-family: QanelasNegrito;
+    src: url(QanelasNegrito.otf)
+}
+@font-face {
+    font-family: Qanelas;
+    src: url(Qanelas.otf)
+}
+h1 {
+    font-family: Qanelas;
+}
+h2 {
+    font-family: QanelasNegrito;
+}
