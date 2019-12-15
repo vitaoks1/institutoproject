@@ -26,8 +26,8 @@ text-shadow:0px 0px 5px #fff;
 }
 .menu li  ul{
 position:absolute; 
-top:25px; 
-left:0;
+top:25px;
+left:5;
 background-color:#000; 
 display:none;
 }
@@ -54,8 +54,10 @@ width:200px;
 h1 {
     font-family: Qanelas;
     color: #fff;
+    text-align: center;
 }
 h2 {
     font-family: QanelasNegrito;
     color: #fff;
+    text-align: center;
 }
