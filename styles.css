@@ -50,10 +50,7 @@ width:200px;
 @font-face {
     font-family: Qanelas;
     src: url(Qanelas.otf)
+     
 p {
-    font-family: "Qanelas"
-}
-
-#p2 {
-   font-family: "QanelasNegrito"
+    font:36px Qanelas;
 }
