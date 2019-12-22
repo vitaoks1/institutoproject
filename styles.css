@@ -51,13 +51,9 @@ width:200px;
     font-family: Qanelas;
     src: url(Qanelas.otf)
 p {
-    font-family: "Raleway Especial"
+    font-family: "Qanelas"
 }
 
 #p2 {
-   font-weight: 600;
-}
-
-#p3 {
-   font-weight: 800;
+   font-family: "QanelasNegrito"
 }
