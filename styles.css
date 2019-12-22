@@ -50,19 +50,14 @@ width:200px;
 @font-face {
     font-family: Qanelas;
     src: url(Qanelas.otf)
+p {
+    font-family: "Raleway Especial"
 }
-h1 {
-    font-family: Qanelas;
-    color: #fff;
-    text-align: center;
+
+#p2 {
+   font-weight: 600;
 }
-h2 {
-    font-family: QanelasNegrito;
-    color: #fff;
-    text-align: center;
-}
-h3 {
-    font-family: Qanelas;
-    color: #fff;
-    text-align: left;
+
+#p3 {
+   font-weight: 800;
 }
