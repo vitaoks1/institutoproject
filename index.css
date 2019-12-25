@@ -36,3 +36,7 @@
    font-family: "Qanelas";
    src: local(Qanelas), url(../Qanelas.otf);
 }
+
+p {
+   font-family: "Raleway Especial"
+}
