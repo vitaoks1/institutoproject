@@ -14,13 +14,13 @@
   text-decoration: none;
 }
 .btn-green{
-  background:red;
+  background:black;
   color:#fff;
-  box-shadow:0 5px 0 #006000;
+  box-shadow:0 5px 0 #1f1f1f;
 }
 .btn-green:hover{
-  background:#006000;
-  box-shadow:0 5px 0 #003f00;
+  background:#1f1f1f;
+  box-shadow:0 5px 0 #333333;
 }
 .btn-green:active{
   position:relative;
