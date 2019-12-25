@@ -27,8 +27,7 @@
   top:5px;
   box-shadow:none;
 }
-#imgpos {
-	position: absolute;
-	left: 50%;
-	top: 50%
-	} 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
