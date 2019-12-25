@@ -3,7 +3,7 @@
   border:none;
 }
 .btn{
-  font-family: arial;
+  font-family: Qanelas;
   font-size:14px;
   text-transform: uppercase;
   font-weight:700;
@@ -14,7 +14,7 @@
   text-decoration: none;
 }
 .btn-green{
-  background:green;
+  background:black;
   color:#fff;
   box-shadow:0 5px 0 #006000;
 }
