@@ -27,3 +27,8 @@
   top:5px;
   box-shadow:none;
 }
+#imgpos {
+	position: absolute;
+	left: 50%;
+	top: 50%
+	} 
