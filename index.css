@@ -35,7 +35,7 @@
 @font-face {
    font-family: "Qanelas";
    src: local(Qanelas), url(Qanelas.otf);
-   color: white;
+   color: #ffffff;
 }
 
 p {
