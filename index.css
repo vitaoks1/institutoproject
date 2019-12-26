@@ -33,13 +33,13 @@
   margin-right: auto;
 }
 @font-face {
-   font-family: "Qanelas";
-   src: local(Qanelas), url(Qanelas.otf);
+   font-family: "GeosansLight";
+   src: local(GeosansLight), url(GeosansLight.ttf);
    color: #ffffff;
 }
 
 p {
-   font-family: "Qanelas"
+   font-family: "GeosansLight"
    color:#fff;
 }
 
