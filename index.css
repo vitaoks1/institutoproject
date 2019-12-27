@@ -48,4 +48,7 @@ h1 {
     font-family: Renner;
     color: #fff;
     font-size: 20;
+    position: absolute; 
+    top: 80 px;
+    left: 100 px;
 }
