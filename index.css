@@ -44,3 +44,6 @@
    src: local(Renner), url(Renner.ttf);
    color: #ffffff;
 }
+h1 {
+    font-family: Renner;
+}
