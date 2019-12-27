@@ -39,16 +39,8 @@
    src: local(BebasNeue-Regular), url(BebasNeue-Regular.otf);
    color: #ffffff;
 }
-
-p {
-   font-family: "BebasNeue-Regular"
-   color:#fff;
-}
-
-#p2 {
-   font-weight: 600;
-}
-
-#p3 {
-   font-weight: 800;
+@font-face {
+   font-family: "Renner";
+   src: local(Renner), url(Renner.ttf);
+   color: #ffffff;
 }
