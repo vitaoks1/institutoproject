@@ -29,6 +29,20 @@
   top:5px;
   box-shadow:none;
 }
+.btn-acessar{
+  background:black;
+  color:#fff;
+  box-shadow:0 0px 0 #1f1f1f;
+}
+.btn-acessar:hover{
+  background:#1f1f1f;
+  box-shadow:0 0px 0 #333333;
+}
+.btn-acessar:active{
+  position:relative;
+  top:5px;
+  box-shadow:none;
+}
 .center {
   display: block;
   margin-left: auto;
