@@ -33,15 +33,18 @@
   background:black;
   color:#fff;
   box-shadow:0 0px 0 #1f1f1f;
+  text-align: center;
 }
 .btn-acessar:hover{
   background:#1f1f1f;
   box-shadow:0 0px 0 #333333;
+  text-align: center;
 }
 .btn-acessar:active{
   position:relative;
   top:5px;
   box-shadow:none;
+  text-align: center;
 }
 .center {
   display: block;
