@@ -3,6 +3,7 @@
   border:none;
 }
 .btn{
+  position: fixed;
   margin-left: auto;
   margin-right: auto;
   font-family: Renner;
@@ -16,16 +17,18 @@
   text-decoration: none;
 }
 .btn-green{
+  position: fixed;
   background:black;
   color:#fff;
   box-shadow:0 3px 0 #1f1f1f;
 }
 .btn-green:hover{
+  position: fixed;
   background:#1f1f1f;
   box-shadow:0 3px 0 #333333;
 }
 .btn-green:active{
-  position:relative;
+  position: fixed;
   top:5px;
   box-shadow:none;
 }
