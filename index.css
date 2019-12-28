@@ -25,7 +25,6 @@
   box-shadow:0 3px 0 #333333;
 }
 .btn-green:active{
-  position: relative;
   top:5px;
   box-shadow:none;
 }
