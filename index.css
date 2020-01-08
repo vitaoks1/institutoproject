@@ -38,10 +38,12 @@
    src: local(BebasNeue-Regular), url(BebasNeue-Regular.otf);
    color: #ffffff;
 }
-@font-face {
+@font-face-hover {
    font-family: "Renner";
    src: local(Renner), url(Renner.ttf);
-   color: #ffffff;
+   color: #212121;
+   background:#006000;
+   box-shadow:0 5px 0 #003f00;  
 }
 h1 {
     font-family: Renner;
