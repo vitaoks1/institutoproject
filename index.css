@@ -5,7 +5,7 @@
 .btn{
   margin-left: auto;
   margin-right: auto;
-  font-family: Renner;
+  font-family: Qanelas;
   font-size:15px;
   text-transform: uppercase;
   font-weight:700;
@@ -16,23 +16,20 @@
   text-decoration: none;
 }
 .btn-green{
-  background:black;
   color:#fff;
-  box-shadow:0 3px 0 #1f1f1f;
-}
-.btn-green:hover{
-  background:#1f1f1f;
-  box-shadow:0 3px 0 #333333;
 }
 .btn-green:active{
   top:5px;
   box-shadow:none;
 }
+.btn-green:hover{
+  color:#212121;
+}
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
-}
+}  
 @font-face {
    font-family: "BebasNeue-Regular";
    src: local(BebasNeue-Regular), url(BebasNeue-Regular.otf);
@@ -41,8 +38,10 @@
 @font-face {
    font-family: "Renner";
    src: local(Renner), url(Renner.ttf);
-   color: #ffffff;
-}
+   color: #212121;
+   background:#006000;
+   box-shadow:0 5px 0 #003f00;  
+}  
 h1 {
     font-family: Renner;
     color: #fff;
@@ -64,3 +63,19 @@ h2 {
     fill: #fff;
     letter-spacing: 0px;
 }
+#menu-vertical{
+  position:fixed;
+  z-index:999; 
+  left:5px; 
+  top:5px;
+  overflow:hidden;
+  padding:6px;
+}  
+.barra {
+  background-color: #080707;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 60px;
+}  
