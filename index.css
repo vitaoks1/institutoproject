@@ -79,3 +79,11 @@ h2 {
   right: 0;
   height: 60px;
 }  
+.barra2 {
+  background-color: #000040;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 61px;
+}  
