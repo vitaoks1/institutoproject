@@ -63,7 +63,7 @@ h2 {
     fill: #fff;
     letter-spacing: 0px;
 }
-#menu-vertical{
+.menu-vertical{
   position:fixed;
   z-index:999; 
   left:5px; 
