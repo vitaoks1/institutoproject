@@ -70,6 +70,7 @@ h2 {
   top:5px;
   overflow:hidden;
   padding:6px;
+  width: 100%;
 }  
 .barra {
   background-color: #080707;
