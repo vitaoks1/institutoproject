@@ -4,7 +4,8 @@ color: white;
 border: none;
 cursor: pointer;
 font-family: Qanelas;
-padding:10px;
+padding: 10px;
+font-size: 30;
 margin-top:20px;
 }
 .dropdown {
@@ -25,4 +26,7 @@ display: block;
 }
 .dropdown:hover .dropdown-child {
 display: block;
+}
+.botao {
+background-image:url("https://cdn0.iconfinder.com/data/icons/internet-activity-3-1/32/menu_bars_four-512.png");
 }
