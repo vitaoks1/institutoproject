@@ -23,6 +23,7 @@ margin-top:20px;
 text-align: right;
 position: absolute;
 right: 5;
+top: -1;
 }
 .acesso2 {
 font-weight: bolder;
@@ -36,7 +37,7 @@ font-size: 20;
 margin-top:20px;
 text-align: right;
 position: absolute;
-top: 40;
+top: 50;
 right: 1;
 }
 /* Dropdown button on hover & focus */
