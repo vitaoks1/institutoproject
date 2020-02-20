@@ -10,7 +10,20 @@ padding: 10px;
 font-size: 30;
 margin-top:20px;
 }
-
+.acesso {
+font-weight: bolder;
+background-color: black;
+color: white;
+border: none;
+cursor: pointer;
+font-family: Qanelas;
+padding: 10px;
+font-size: 20;
+margin-top:20px;
+text-align: right;
+position: absolute;
+right: 0;
+}
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #5e5e5e;
