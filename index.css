@@ -11,10 +11,10 @@ font-size: 30;
 margin-top:20px;
 }
 .acesso {
-font-weight: bolder;
 background-color: black;
+border-radius: 25px;
+border: 2px solid #fff;
 color: white;
-border: none;
 cursor: pointer;
 font-family: Qanelas;
 padding: 10px;
@@ -23,13 +23,13 @@ margin-top:20px;
 text-align: right;
 position: absolute;
 right: 5;
-top: -1;
+top: -3;
 }
 .acesso2 {
-font-weight: bolder;
 background-color: black;
+border-radius: 25px;
+border: 2px solid #fff;
 color: white;
-border: none;
 cursor: pointer;
 font-family: Qanelas;
 padding: 10px;
