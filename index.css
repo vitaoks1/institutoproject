@@ -40,6 +40,12 @@ position: absolute;
 top: 50;
 right: 1;
 }
+.acesso:hover {
+background-color:  #828282;
+}
+.acesso2:hover {
+background-color:  #828282;
+}  
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
   background-color: #000000;
