@@ -13,7 +13,7 @@ margin-top:20px;
 .acesso {
 background-color: black;
 border-radius: 25px;
-border: 2px solid #fff;
+border: 1px solid #fff;
 color: white;
 cursor: pointer;
 font-family: Qanelas;
@@ -28,7 +28,7 @@ top: -3;
 .acesso2 {
 background-color: black;
 border-radius: 25px;
-border: 2px solid #fff;
+border: 1px solid #fff;
 color: white;
 cursor: pointer;
 font-family: Qanelas;
